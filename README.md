@@ -1,2 +1,2 @@
 # Passport-Authentification
-Inscription et connexion
+Ity projet dia nataoko mba hanaovana authentification : izany hoe manao inscription dia rehefa avy eo manao connexion.
